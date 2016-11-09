@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Nougat Photo Sample</string>
+    <string name="provide_permissions">Please provide permission to the camera and storage in order to use this app.</string>
+</resources>
